@@ -13,6 +13,10 @@
 #The following script can be used to generate cluster submission scripts for each sample.
 #02.generate_cluster_cmds_extended.pl
 
+##########
+#The R script in this folder will model the allele frequencies in specific window sizes.
+#2015-11-20_BB_modeling_of_allele_freq.R
+
 #########
 #Output allele frequencies for each sample are located in the allele_freq folder. The header information is as follows:
 #POPID	Chr	Pos	Ref	Alt(Maternal)	Mapping_Quality	Coverage(Maternal) Frequency(Maternal)	SNP_Quality
